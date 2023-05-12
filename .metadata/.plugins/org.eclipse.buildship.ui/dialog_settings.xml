@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="apply_working_sets" value="false"/>
+		<item key="project_location" value="F:\Pavithra_Office\2022-DEV1-125\Tennis\Kata_Tennis"/>
+		<list key="working_sets">
+		</list>
+	</section>
+</section>
